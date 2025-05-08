@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,django)](https://skillicons.dev)
 
-**📖 Want to read something interesting?**
+**Want to read something interesting? 📖**
 - Visit my **[blog](https://geohubkenya.wordpress.com/)**
 - Checkout my articles on **[UP42](https://up42.com/blog/author/rose-njambi)**
 - Explore **[Geoawesome](https://geoawesome.com/author/rosenjambi/)**
 
-**📩 Let's talk**
+**Let's talk 📩**
 - Email: [njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
 - Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/))<br />
 
