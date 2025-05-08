@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Njambi
+## Hi there 👋
 
 <!--
 **njambi-r/njambi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,26 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/rose-kihungu-0a87417a/)
 
-### **Creative, curious, lifelong learner - merging the worlds of art, data and geography.** 
+**I'm Njambi** - A creative, curious, lifelong learner - merging the worlds of art, data and geography. 
 + 🛰️ My career interests include Remote Sensing and Geographic Information Systems (GIS)
 + 🌱 I’m currently learning web development and web mapping
 + 📷 My hobbies include art and nature photography
-+ ✨ I enjoy writing about all things geospatial. Breaking down the technical. See my **[blog](https://geohubkenya.wordpress.com/)**
++ ✨ I write in my free time. See my **[blog](https://geohubkenya.wordpress.com/)**
 
----
-## **📖 Want to read something interesting?**
+[![My Skills](https://skillicons.dev/icons?i=py,r,django)](https://skillicons.dev)
+
+**📖 Want to read something interesting?**
 - Visit my **[blog](https://geohubkenya.wordpress.com/)**
-- Read my articles on **[UP42](https://up42.com/blog/author/rose-njambi)**
-- Explore more on **[Geoawesome](https://geoawesome.com/author/rosenjambi/)**
+- Checkout my articles on **[UP42](https://up42.com/blog/author/rose-njambi)**
+- Explore **[Geoawesome](https://geoawesome.com/author/rosenjambi/)**
 
-
-## 📩 Let's talk
+**📩 Let's talk**
 - Email: [njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
 - Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/))<br />
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=njambi-r&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njambi-r&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
