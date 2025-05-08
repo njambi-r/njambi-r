@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Njambi
 
 <!--
 **njambi-r/njambi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 + 🛰️ My career interests include Remote Sensing and Geographic Information Systems (GIS)
 + 🌱 I’m currently learning web development and web mapping
 + 📷 My hobbies include art and nature photography
-+ ✨ I enjoy writing about all things geospatial. Breaking down the technical. 
++ ✨ I enjoy writing about all things geospatial. Breaking down the technical. See my **[blog](https://geohubkenya.wordpress.com/)**
 
 ---
-## Get in touch
-### **Reach me via:<br />**
+## **📖 Want to read something interesting?**
+- Visit my **[blog](https://geohubkenya.wordpress.com/)**
+- Read my articles on **[UP42](https://up42.com/blog/author/rose-njambi)**
+- Explore more on **[Geoawesome](https://geoawesome.com/author/rosenjambi/)**
+
+
+## 📩 Let's talk
 - Email: [njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
 - Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/))<br />
