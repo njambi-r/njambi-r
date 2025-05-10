@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 + 🛰️ My career interests include Remote Sensing and Geographic Information Systems (GIS)
 + 🌱 I’m currently learning web development and web mapping
 + 📷 My hobbies include art and nature photography
-+ ✨ I write in my free time. See my **[blog](https://geohubkenya.wordpress.com/)**
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,django)](https://skillicons.dev)
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 **Let's talk 📩**
 - Email: [njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
-- Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/))<br />
+- Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/)<br />
 
 <details>
   <summary>Github Stats ⚡</summary>
