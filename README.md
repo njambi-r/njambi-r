@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/rose-kihungu-0a87417a/)
 
-**I'm Njambi** - A creative, curious, lifelong learner - merging the worlds of art, data and geography. 
+**I'm Njambi** - A creative, curious, lifelong learner - exploring life through art, data, maps, and geography. 
 + 🛰️ My career interests include Remote Sensing and Geographic Information Systems (GIS)
 + 🌱 I’m currently learning web development and web mapping
 + 📷 My hobbies include art and nature photography
