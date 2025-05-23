@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/rose-kihungu-0a87417a/)
 
-**I'm Njambi** - I'm into data, maps, geography, art, and photography
+**I'm Njambi** - exploring data, maps, geography, and art
 + 🛰️ My career interests include Remote Sensing and Geographic Information Systems (GIS)
 + 🌱 I’m currently learning web development and web mapping
 + 📷 My hobbies include art and nature photography
@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 - Checkout my articles on **[UP42](https://up42.com/blog/author/rose-njambi)**
 - Explore **[Geoawesome](https://geoawesome.com/author/rosenjambi/)**
 
-**Let's talk 📩**
-- Email: [njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
-- Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/)<br />
+**📩**
+[njambi.r@gmail.com](mailto:njambi.r@gmail.com)<br />
+ <!--
+ - Linkedin: [in/rose-kihungu](https://www.linkedin.com/in/rose-kihungu-0a87417a/)<br />
+ -->
 
 <details>
   <summary>Github Stats ⚡</summary>
